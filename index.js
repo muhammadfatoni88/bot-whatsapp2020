@@ -15,7 +15,7 @@ const info = require("./lib/info.js");
 /////////////////
 const BotName = 'FatoniBOT'; 
 const instagram = 'https://www.instagram.com/fatonibot'; 
-const telegram = 'https://t.me/ZOLAY_31'; 
+const telegram = 'https://t.me/DanielSalas'; 
 const kapanbotaktif = 'Jam 07.00-22.00'; 
 const youtube = 'https://youtube.com/FATONI01GAMING';
 const grupch1 = ' NOT FOUND'; 
